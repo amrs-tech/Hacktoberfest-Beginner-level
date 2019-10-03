@@ -32,8 +32,10 @@ You can contribute to this repository by showcasing your knowledge. Look out for
 
 Don't forget to add your Name and GitHub user profile to `CONTRIBUTORS.md`
 
+Hola! you're done. Now sit back and let us review your awesome code.
+Happy Hacking October!
+
+
 ## License
 Copyright 2019 [Hacktoberfest-Beginner-level Contributors](https://github.com/amrs-tech/Hacktoberfest-Beginner-level/graphs/contributors) | MIT License
 
-Hola! you're done. Now sit back and let us review your awesome code.
-Happy Hacking October!
