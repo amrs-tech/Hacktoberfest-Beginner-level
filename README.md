@@ -1,4 +1,5 @@
 # Hacktoberfest-Beginner-level
+## ⭐ Star this repository if you really like this approach of encouraging first-time-contributors :)
 
 A beginner-friendly repository to help first-time-contributors in the open 
 source community.
