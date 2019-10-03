@@ -5,3 +5,4 @@
 ### List of contributors to this repository
 
 * [Ahamed Musthafa](https://github.com/amrs-tech)
+* [Daniel Pimentel](http://d4n1.org)
