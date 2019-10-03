@@ -1,6 +1,6 @@
 # Hacktoberfest-Beginner-level
 
-A beginner-friendly repository to help first-time-contributors in the open source community.
+A beginner-friendly repository to welcome first-time-contributors in the open source community.
 
 ## Contributions
 
@@ -11,6 +11,8 @@ You can contribute to this repository by creating a new file that is to showcase
 1. Navigate to the respective programming folder
 2. Create a new file named `<your-username>.<file-extension>`
 3. Populate the file with your favourite program in that programming language
-4. Try to beautify the program with meaningful comments
+4. Try to garnish your program with meaningful comments
 
-> After contributing, add your Name and GitHub user profile to CONTRIBUTORS.md
+> After contributing,do add your Name and GitHub user profile to CONTRIBUTORS.md
+
+So, contributors gear up coz it's the Hacktober Fest'19!!
