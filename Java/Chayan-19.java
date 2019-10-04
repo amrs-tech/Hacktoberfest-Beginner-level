@@ -16,7 +16,7 @@ class Date_to_Day
             
             int x1=date.indexOf('/');//Finding the Starting index for month 
             
-            int y1=date.lastIndexOf('/');//Extracting Month
+            int y1=date.lastIndexOf('/');//Extracting Month from Complete Date
             
             String x=date.substring(x1,y1);
             
