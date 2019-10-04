@@ -71,7 +71,7 @@ void printList(struct Node *start)
 	} 
 } 
 
-/* Bubble sort the given linked list */
+/* Arranging the given Linked List in ascending order by Bubble Sort  */
 void bubbleSort(struct Node *start) 
 { 
 	int swapped, i; 
