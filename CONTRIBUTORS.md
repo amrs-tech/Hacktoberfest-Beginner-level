@@ -14,3 +14,5 @@
 * [Chayan](https://github.com/Chayan-19)
 
 * [Sean O'Connor](https://github.com/seanyboi)
+
+* [Mitarth Jain](https://github.com/mitarthjain)
