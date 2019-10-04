@@ -76,4 +76,4 @@ if __name__ == "__main__" :
 	# Find the product of the 2 matrices 
 	multiplyMatrix(row1, col1, A, row2, col2, B) 
 
-# This code is contributed by Ryuga 
+ 
