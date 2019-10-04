@@ -13,4 +13,4 @@
 * [Praveen Bisht](https://www.prvnbist.com)
 * [Chayan](https://github.com/Chayan-19)
 
-* [Sean O'Connor](https://github.com/seanyboi
+* [Sean O'Connor](https://github.com/seanyboi)
