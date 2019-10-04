@@ -14,3 +14,5 @@
 * [Chayan](https://github.com/Chayan-19)
 
 * [Sean O'Connor](https://github.com/seanyboi)
+
+* [Kristina Bautista](https://github.com/KIBautista)
