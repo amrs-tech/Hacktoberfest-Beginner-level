@@ -1,11 +1,12 @@
-//A java program to calculate day Number by giving a date as input
+//A java program to calculate day Number by giving date as input
 
 import java.io.*;
 class Date_to_Day
 {
       public static void main(String args[])throws IOException
         {
-            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+            InputStreamReader isr = new InputStreamReader(Syatem.in);
+            BufferedReader br = new BufferedReader(isr);
             
             System.out.println("Enter Date in DD/MM/YYYY format");
             String date=br.readLine();//Accepting Input
