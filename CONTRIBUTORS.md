@@ -20,3 +20,5 @@
 * [Pasindu Madhusankha](https://github.com/Madhusankha)
 
 * [Mitarth Jain](https://github.com/mitarthjain)
+
+* [Anukriti Jha](https://github.com/anukritijha246)
