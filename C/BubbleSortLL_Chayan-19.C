@@ -12,7 +12,7 @@ struct Node
 /* Function to insert a node at the beginning of a linked list */
 void insertAtTheBegin(struct Node **start_ref, int data); 
 
-/* Function to bubble sort the given linked list */
+/* Function to sort the given linked list using Bubble Sort */
 void bubbleSort(struct Node *start); 
 
 /* Function to swap data of two nodes a and b*/
