@@ -12,7 +12,7 @@ Acquaint yourself with Hacktoberfest here: https://hacktoberfest.digitalocean.co
 1. You must login to [Github](https://github.com/) before. If you don't have a GitHub account, make one right now.
     Remember to fill out your Github profile completely.
 2. Access [Hacktoberfest](https://hacktoberfest.digitalocean.com/profile) and 
-    link your GitHub acoount to get your Hacktoberfest profile. 
+    link your GitHub account to get your Hacktoberfest profile. 
 3. Access [Github project](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen&type=Issues)
     and help the open source community :)
 
