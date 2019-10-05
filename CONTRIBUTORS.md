@@ -18,3 +18,5 @@
 * [Kristina Bautista](https://github.com/KIBautista)
 
 * [Pasindu Madhusankha](https://github.com/Madhusankha)
+
+* [Mitarth Jain](https://github.com/mitarthjain)
