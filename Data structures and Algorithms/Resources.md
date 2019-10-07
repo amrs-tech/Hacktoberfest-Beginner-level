@@ -29,3 +29,5 @@
 * [C++ Foundation with Data Structures](http://bit.ly/2LQfO7D)
 
 * [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/)
+
+* [Competitive Programming Algorithms](http://cp-algorithms.com/)
