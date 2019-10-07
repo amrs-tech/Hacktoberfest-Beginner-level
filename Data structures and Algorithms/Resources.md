@@ -8,3 +8,8 @@
 
 * [MIT Algorithms Free course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 * [TutorialsPoint - Data Structures & Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
+* [Study Tonight - Introduction to Data Structures](https://www.studytonight.com/data-structures/introduction-to-data-structures)
+* [Coursera - Data Structures Course](https://www.coursera.org/learn/data-structures)
+* [Coursera - Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
+* [Udacity - Data Structures and Algorithms NanoDegree](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)
+* [Udemy - Data Structures and Algorithms Course](https://www.udemy.com/course/learn-data-structure-algorithms-with-java-interview/)
