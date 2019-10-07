@@ -11,6 +11,7 @@
 * [Kevin Adam](https://github.com/vnxx)
 
 * [Praveen Bisht](https://www.prvnbist.com)
+
 * [Chayan](https://github.com/Chayan-19)
 
 * [Sean O'Connor](https://github.com/seanyboi)
@@ -22,4 +23,7 @@
 * [Mitarth Jain](https://github.com/mitarthjain)
 
 * [Anukriti Jha](https://github.com/anukritijha246)
+
 * [Deeptiman Mallick](https://github.com/codecrook)
+
+* [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
