@@ -31,3 +31,5 @@
 * [Andrew Gunderman](https://github.com/agunderman10)
 
 * [Ravi Prakash](https://github.com/ravi-prakash1907)
+
+* [Alex Alvarado](https://github.com/Xeluh)
