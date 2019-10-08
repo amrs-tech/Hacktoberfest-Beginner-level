@@ -37,3 +37,5 @@
 * [Luis Pena](https://github.com/poszy)
 
 * [Ankita Gulati](https://github.com/Ankitagulati4)
+
+* [Vaibhav Pandey](https://github.com/deviouscyborg)
