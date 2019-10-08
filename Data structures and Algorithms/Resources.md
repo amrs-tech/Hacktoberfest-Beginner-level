@@ -29,3 +29,5 @@
 * [C++ Foundation with Data Structures](http://bit.ly/2LQfO7D)
 
 * [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/)
+
+* [mycodeschool YouTube channel](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
