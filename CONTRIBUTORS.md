@@ -29,3 +29,11 @@
 * [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
 
 * [Andrew Gunderman](https://github.com/agunderman10)
+
+* [Ravi Prakash](https://github.com/ravi-prakash1907)
+
+* [Megha Agarwal](https://github.com/meghaa105)
+
+* [Luis Pena](https://github.com/poszy)
+
+* [Ankita Gulati](https://github.com/Ankitagulati4)
