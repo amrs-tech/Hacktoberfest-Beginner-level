@@ -33,3 +33,7 @@
 * [mycodeschool YouTube channel](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 
 * [Competitive Programming Algorithms](http://cp-algorithms.com/)
+
+* [Interviewbit - Data Structures ](https://www.interviewbit.com/courses/programming/)
+
+* [Hackerearth - Data Structures Tutorial](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
