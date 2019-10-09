@@ -38,4 +38,9 @@
 
 * [Ankita Gulati](https://github.com/Ankitagulati4)
 
+* [Niket Ganatra](https://github.com/dev-niket)
+
+* [Ravindra yadav](https://github.com/ravindra7355100)
+
 * [Vaibhav Pandey](https://github.com/deviouscyborg)
+
