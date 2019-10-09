@@ -36,6 +36,9 @@
 
 * [Luis Pena](https://github.com/poszy)
 
-
 * [Ankita Gulati](https://github.com/Ankitagulati4)
+
+* [Niket Ganatra](https://github.com/dev-niket)
+
 * [Ravindra yadav](https://github.com/ravindra7355100)
+
