@@ -62,6 +62,9 @@
 * Adam Drozdek
 * Michael T. Goodrich and Roberto Tamassia
 * Mark Allen Weiss (Recursive Implementation)
+* Competitive Programming 3 (By Felix Halim and Steven Halim)
+* Competitive Programming Handbook
+* Algorithms by Sanjoy Dasgupta
 
 ##  Problems to solve 
 
@@ -72,3 +75,5 @@
 * [InterviewBit-Algorithms and Data Structures](https://www.interviewbit.com/courses/programming/)
 
 * [HackerRank-Problems](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays)
+
+* [Codeforces Problemset](http://codeforces.com/problemset)
