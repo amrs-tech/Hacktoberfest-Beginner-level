@@ -46,4 +46,4 @@
 
 * [Ajay Raj](https://github.com/Ajay-Raj-S)
 
-*[Muskan Sharma](https://github.com/muskan077)
+* [Muskan Sharma](https://github.com/muskan077)
