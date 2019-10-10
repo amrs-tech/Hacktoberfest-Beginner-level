@@ -44,6 +44,8 @@
 
 * [Algorithms Live!- COmpetitive Coding Tutorials][http://algorithms-live.blogspot.com/]
 
+* [Javatpoint - Data Structures Tutorial](https://www.javatpoint.com/data-structure-tutorial)
+
 ## Books
 
 ### Easy :
