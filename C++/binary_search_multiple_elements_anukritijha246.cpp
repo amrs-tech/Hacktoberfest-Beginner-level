@@ -3,6 +3,22 @@
 using namespace std;
 int binarySearch(int arr[],int l,int r,int x)
 {
+
+
+    //Sorting the array in ascending order in order to use binary search 
+    for(int i=0;i<r;i++)
+    {       
+        for( int j=i+1;j<r;j++)
+        {
+            if(arr[i]>arr[j])
+            {
+                int temp  =arr[i];
+                arr[i]=arr[j];
+                arr[j]=temp;
+            }
+        }
+    }
+
     if(r>=l)
     {
 
@@ -23,17 +39,18 @@ int binarySearch(int arr[],int l,int r,int x)
 }
 int main()
 {
+
     int i,n1,n2,arr[100],ar[100];
     cout<<"enter size of array\n";
     cin>>n1;
-    cout<<"enter elements of array\n";
+     cout<<"enter elements of array\n";
     for(i=0;i<n1;i++)
     {
         cin>>arr[i];
     }
     cout<<"enter size of search array\n";
     cin>>n2;
-    cout<<"enter elements of search array\n";
+   cout<<"enter elements of search array\n";
     for(i=0;i<n2;i++)
     {
         cin>>ar[i];
