@@ -1,6 +1,9 @@
 # Hacktoberfest-Beginner-level
 ## ⭐ Star this repository if you really like this approach of encouraging first-time-contributors :)
 
+![Hacktoberfest](hack.png)
+
+*Designed by [UsefulHunter](https://github.com/UsefulHunter) with HTML code -- Code is under HTML folder of this repository*
 
 Hey there! This is a beginner-friendly repository to help first-time-contributors with their cntrobutions in the open source community. 
 
