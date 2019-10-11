@@ -42,7 +42,7 @@
 
 * [Maktabkhoone - Data Structures Tutorial](https://maktabkhooneh.org/course/%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7-%D9%88-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%87%D8%A7-mk286/)
 
-* [Algorithms Live!- COmpetitive Coding Tutorials][http://algorithms-live.blogspot.com/]
+* [Algorithms Live!- Competitive Coding Tutorials](http://algorithms-live.blogspot.com/)
 
 ## Books
 
@@ -62,6 +62,7 @@
 * Adam Drozdek
 * Michael T. Goodrich and Roberto Tamassia
 * Mark Allen Weiss (Recursive Implementation)
+* Competitive Programming 3 (Best book for competitive programming )
 
 ##  Problems to solve 
 
