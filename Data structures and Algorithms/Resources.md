@@ -81,3 +81,5 @@
 * [HackerRank-Problems](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays)
 
 * [Codeforces Problemset](http://codeforces.com/problemset)
+
+* [Kaggle Titanic](https://www.kaggle.com/c/titanic)

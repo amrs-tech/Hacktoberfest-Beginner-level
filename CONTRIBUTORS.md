@@ -4,6 +4,11 @@
 
 ### List of contributors to this repository
 
+
+* [Ankita Priya](https://github.com/AnkitaBIT)
+
+* [Swapnil Sinha](https://github.com/siriuswapnil)
+
 * [Ahamed Musthafa](https://github.com/amrs-tech)
 
 * [Daniel Pimentel](http://d4n1.org)
@@ -49,3 +54,5 @@
 * [Muskan Sharma](https://github.com/muskan077)
 
 * [Pranjai Srivastava](https://github.com/pranjai-26)
+
+* [Linda Oglesbee](https://github.com/linsogles)
