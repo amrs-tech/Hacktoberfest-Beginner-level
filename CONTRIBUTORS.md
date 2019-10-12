@@ -4,6 +4,9 @@
 
 ### List of contributors to this repository
 
+
+* [Swapnil Sinha](https://github.com/siriuswapnil)
+
 * [Ahamed Musthafa](https://github.com/amrs-tech)
 
 * [Daniel Pimentel](http://d4n1.org)
