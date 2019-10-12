@@ -5,6 +5,8 @@
 ### List of contributors to this repository
 
 
+* [Ankita Priya](https://github.com/AnkitaBIT)
+
 * [Swapnil Sinha](https://github.com/siriuswapnil)
 
 * [Ahamed Musthafa](https://github.com/amrs-tech)
