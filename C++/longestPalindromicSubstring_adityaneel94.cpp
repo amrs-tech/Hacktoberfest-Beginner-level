@@ -1,3 +1,5 @@
+//program finds the longest palindromic substring in a string
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -33,5 +35,5 @@ int main(){
 	string s;
 	cin>>s;
 	string res = longestPalindrome(s);
-	cout<<"Longest palindromic subsequence : "<<res;
+	cout<<"Longest palindromic substring : "<<res;
 }
