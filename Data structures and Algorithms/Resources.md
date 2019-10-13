@@ -48,6 +48,8 @@
 
 * [letsfindcourse - Data Structures and Algorithms](http://letsfindcourse.com/data-structure-algorithm)
 
+* [edx - UCSanDiegoX's Algorithms and Data Structures Course](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
+
 ## Books
 
 ### Easy :
@@ -70,7 +72,7 @@
 * Competitive Programming Handbook
 * Algorithms by Sanjoy Dasgupta
 
-##  Problems to solve 
+##  Problems to solve
 
 * [Codechef Tutorial Questions](https://www.codechef.com/wiki/tutorials)
 
@@ -83,3 +85,5 @@
 * [Codeforces Problemset](http://codeforces.com/problemset)
 
 * [Kaggle Titanic](https://www.kaggle.com/c/titanic)
+
+* [GeeksforGeeks Practice Problems](https://practice.geeksforgeeks.org/)
