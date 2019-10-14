@@ -7,6 +7,8 @@
 
 * [Ankita Priya](https://github.com/AnkitaBIT)
 
+* [Nischal Kanishk](https://github.com/NischalKanishk)
+
 * [Swapnil Sinha](https://github.com/siriuswapnil)
 
 * [Ahamed Musthafa](https://github.com/amrs-tech)
