@@ -50,13 +50,7 @@
 
 * [edx - UCSanDiegoX's Algorithms and Data Structures Course](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
 
-* [My Code School - Data Structures ](https://www.youtube.com/user/mycodeschool)
-
-* [My Code School - Data Structures ](https://www.youtube.com/user/mycodeschool)
-
-* [DSA - Algorithms Introduction](https://www.youtube.com/user/mycodeschool)
-
-* [Job Interview Preparation - Ravindrababu |Ravula](https://ravindrababuravula.com/interviewpreperation.php)
+* [Job Interview Preparation - Ravindrababu Ravula](https://ravindrababuravula.com/interviewpreperation.php)
 
 * [Data Structures And Algorithms (Video) NPTEL](https://nptel.ac.in/courses/106102064/)
 
