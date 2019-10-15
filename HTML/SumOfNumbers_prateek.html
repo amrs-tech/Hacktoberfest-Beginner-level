@@ -1,0 +1,41 @@
+<!DOCTYPE html> 
+<html>
+<head> 
+<meta charset=utf-8 /> 
+<title>Sum of Digits in JavaScript</title> 
+<style type="text/css"> 
+body {
+font-family:arial;
+	font-size:12;
+	font-weight:bold;
+background-color:lightgreen;
+	margin: 30px;
+	}
+</style>
+</head> 
+<body> 
+<script>
+function Sum_of_Digits() {
+ var number = document.getElementById("number1").value;
+ var str = number.toString();
+ var sum = 0;
+ for (var i = 0; i < str.length; i++) {
+sum += parseInt(str.charAt(i), 10);
+ }
+document.getElementById("result").innerHTML = sum;
+}
+</script>
+<hr>
+<h2>Sum of Digits in JavaScript </h2>
+ <hr>
+<form> 
+Enter a number <input type="text" id="number1" maxlength="10" size="10"><br> 
+<br>
+<input type="button" onClick="Sum_of_Digits()" Value="Ok" 
+title="Click here to find the total sum of digits of a number." />  
+</form> <br>
+<p>The total sum of digits is : 
+<span id = "result"></span> 
+</p> 
+</body> 
+</html>
