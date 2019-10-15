@@ -59,4 +59,13 @@
 
 * [César Alvarez Vallero](https://github.com/csralvall)
 
+
 * [Ivan Elv](https://github.com/ivanelv)
+
+* [Samuelowad](https://github.com/samuelowad)
+
+* [Abhilasha Sinha](https://github.com/Abhilasha06)
+
+* [Subashree Mahendran](https://github.com/SubashreeMahendran)
+
+* [KN](https://github.com/KN027)

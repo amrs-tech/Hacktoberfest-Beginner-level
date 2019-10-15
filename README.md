@@ -40,4 +40,4 @@ Happy Hacking October!
 
 
 ## License
-Copyright 2019 [Hacktoberfest-Beginner-level Contributors](https://github.com/amrs-tech/Hacktoberfest-Beginner-level/graphs/contributors) | MIT License
+© Copyright 2019 [Hacktoberfest-Beginner-level Contributors](https://github.com/amrs-tech/Hacktoberfest-Beginner-level/graphs/contributors) | MIT License
