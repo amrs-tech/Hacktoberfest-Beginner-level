@@ -4,6 +4,11 @@
 
 ### List of contributors to this repository
 
+
+* [Ankita Priya](https://github.com/AnkitaBIT)
+
+* [Swapnil Sinha](https://github.com/siriuswapnil)
+
 * [Ahamed Musthafa](https://github.com/amrs-tech)
 
 * [Daniel Pimentel](http://d4n1.org)
@@ -46,3 +51,23 @@
 
 * [Ajay Raj](https://github.com/Ajay-Raj-S)
 
+* [Muskan Sharma](https://github.com/muskan077)
+
+* [Pranjai Srivastava](https://github.com/pranjai-26)
+
+* [Linda Oglesbee](https://github.com/linsogles)
+
+* [César Alvarez Vallero](https://github.com/csralvall)
+
+
+* [Ivan Elv](https://github.com/ivanelv)
+
+* [Samuelowad](https://github.com/samuelowad)
+
+* [Abhilasha Sinha](https://github.com/Abhilasha06)
+
+* [Subashree Mahendran](https://github.com/SubashreeMahendran)
+
+* [KN](https://github.com/KN027)
+
+* [Prateek Pardeshi](https://github.com/prateekpardeshi)
