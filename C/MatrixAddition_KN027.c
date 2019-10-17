@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main()
+int main()
 {
 	int i,j,a[50][50],b[50][50],c[50][50],r1,r2,c1,c2;
 	clrscr();
@@ -65,5 +65,5 @@ void main()
 	}
 	else
 		printf("Addition of entered matrices is not possible");
-	getch();
+return 0;
 }
