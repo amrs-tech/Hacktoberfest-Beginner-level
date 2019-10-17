@@ -59,6 +59,7 @@
 
 * [César Alvarez Vallero](https://github.com/csralvall)
 
+* [Nymika](https://github.com/nymika)
 
 * [Ivan Elv](https://github.com/ivanelv)
 
