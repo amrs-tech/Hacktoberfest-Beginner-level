@@ -1,0 +1,16 @@
+#!/bin/bash
+
+random_number=$(( ( RANDOM % 10 )  + 1 ))
+
+echo "**Guess the number between 1 and 10**"
+echo -n "Input your number: "
+
+read userinput
+
+if [ $userinput -eq $random_number ]; then
+   echo "Whooraayy ! you guess right."
+   exit
+else
+   echo "Failed, try another time :("
+fi
+
