@@ -1,0 +1,21 @@
+* {
+  margin: 40px 40px;
+}
+
+button {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  background-color: #9a48d0;
+  padding: 10px 20px 13px 20px;
+  border-radius: 9px;
+  margin-top: -20px;
+}
+
+p {
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: -26px;
+}
+/*# sourceMappingURL=joke.css.map */
