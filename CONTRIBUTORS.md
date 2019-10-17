@@ -72,3 +72,5 @@
 * [KN](https://github.com/KN027)
 
 * [Prateek Pardeshi](https://github.com/prateekpardeshi)
+
+* [Mohit Pujari](https://github.com/themp3dark)
