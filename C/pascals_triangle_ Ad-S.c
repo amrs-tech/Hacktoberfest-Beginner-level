@@ -1,6 +1,7 @@
 // this code can print pascals triangle upto any number of rows
 #include<stdio.h>
-int main()
+#include<conio.h>
+void main()
 {
     int rows,k,j,i,coeff;
     scanf("%d",&rows);//input how many number of rows you want in a pascal triangle
@@ -20,5 +21,5 @@ int main()
         printf("%d ",coeff);
         }
     }
-    return 0;
+    getch();
 }
