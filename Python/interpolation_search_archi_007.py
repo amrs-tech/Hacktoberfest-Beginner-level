@@ -28,6 +28,6 @@ x = 18
 index = interpolationSearch(arr, n, x) 
   
 if index != -1: 
-    print "Element found at index",index 
+    print( "Element found at index",index )
 else: 
-    print "Element not found"
+    print ("Element not found")
