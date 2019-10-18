@@ -1,8 +1,10 @@
 #include<stdio.h>
+#include<conio.h>
 void fact();
 main()
 {
  fact();
+ getch();
 
 }
 void fact()
