@@ -97,3 +97,28 @@
 
 - [Practise Data Structures](http://www.practiceds.com/#/)
 - [Coderbyte Challenges](https://coderbyte.com/challenges)
+**BY Achyuth
+  - [learning tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
+-[visualization of data structures and alogorthms](VisuAlgo.net )
+
+- [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
+
+- [GeeksforGeeks - Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+-[ds in python](www.datacamp.com/‎)
+
+[alogrithms brief summary] https://www.freecodecamp.org
+https://www.academia.edu
+#############
+###interview questions links
+-[first link]https://hackernoon.com
+-[second link]https://www.faceprep.in
+-[third link]https://career.guru99.com
+-[fourth link]https://www.sanfoundry.com
+##############
+###books links for data structures and algorithms
+- [Data Structures and Algorithms in Java PDF Book] (http://enos.itcollege.ee/~jpoial/algorithms/GT/Data%20Structures%20and%20Algorithms%20in%20Java%20Fourth%20Edition.pdf)
+- [Data Structures using c](http://masterraghu.com/subjects/Datastructures/ebooks/rema%20thareja.pdf)
+###############
+###platform links where u can practise ds questions
+https://www.hackerrank.com/domains/data-structures
+https://www.hackerearth.com/practice/
