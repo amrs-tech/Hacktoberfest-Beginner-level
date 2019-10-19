@@ -28,8 +28,8 @@ def knapSack(W, wt, val, n):
 
 
 # Driver program to test above function
-val = [60, 100, 120]
-wt = [10, 20, 30]
+val = list(eval(input("put val values as list")))
+wt = list(eval(input("put wt values as list")))
 W = 50
 n = len(val)
 print("The Maximum Value is: ")
