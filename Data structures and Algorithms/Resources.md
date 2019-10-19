@@ -54,9 +54,32 @@
 
 - [Data Structures And Algorithms (Video) NPTEL](https://nptel.ac.in/courses/106102064/)
 - [4 Data Structures Every New Developer Should Know](https://learntocodewith.me/posts/data-structures/)
+- [Java Programs Related to Data Structures and Algorithms](https://introcs.cs.princeton.edu/java/40algorithms/)
+- [learning tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
+-[visualization of data structures and alogorthms](VisuAlgo.net )
 
+- [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
+
+- [GeeksforGeeks - Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+-[ds in python](www.datacamp.com/‎)
+
+[alogrithms brief summary] https://www.freecodecamp.org
+https://www.academia.edu
+#############
+###interview questions links
+-[first link]https://hackernoon.com
+-[second link]https://www.faceprep.in
+-[third link]https://career.guru99.com
+-[fourth link]https://www.sanfoundry.com
+##############
+  
+   
+###platform links where u can practise ds questions
+https://www.hackerrank.com/domains/data-structures
+https://www.hackerearth.com/practice/
 ## Books
-
+- [Data Structures and Algorithms in Java PDF Book] (http://enos.itcollege.ee/~jpoial/algorithms/GT/Data%20Structures%20and%20Algorithms%20in%20Java%20Fourth%20Edition.pdf)
+- [Data Structures using c](http://masterraghu.com/subjects/Datastructures/ebooks/rema%20thareja.pdf)
 ### Easy :
 
 - Data Structures Using C by Reema Thareja.
