@@ -25,6 +25,7 @@ for i in range(num):
 
 print("Enter the number you want to search")
 s = int(input())
+n.sort()                    #binary search only works on sorted lists
 
 ans = bin_search(n,s)
 
