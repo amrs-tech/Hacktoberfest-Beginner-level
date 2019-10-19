@@ -1,7 +1,7 @@
 # Data Structures and Algorithms
 
 ## List of resources for Data structures and Algorithms
- -[Learn Data Structures and Algorithms | CodeChef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare/)
+-[Learn Data Structures and Algorithms | CodeChef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare/)
 
 - [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
 
