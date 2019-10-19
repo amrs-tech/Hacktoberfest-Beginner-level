@@ -1,6 +1,7 @@
 # Data Structures and Algorithms
 
 ## List of resources for Data structures and Algorithms
+-[Introduction to Data Structures and Algorithms](https://www.studytonight.com/data-structures/introduction-to-data-structures)
 
 - [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
 
