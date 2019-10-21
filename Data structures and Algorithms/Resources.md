@@ -54,6 +54,7 @@
 
 - [Data Structures And Algorithms (Video) NPTEL](https://nptel.ac.in/courses/106102064/)
 - [4 Data Structures Every New Developer Should Know](https://learntocodewith.me/posts/data-structures/)
+- [data structures and algorithms with "cs dojo"](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 
 ## Books
 
