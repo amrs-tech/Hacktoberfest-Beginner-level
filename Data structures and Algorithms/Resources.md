@@ -30,6 +30,8 @@
 
 - [C++ Foundation with Data Structures](http://bit.ly/2LQfO7D)
 
+- [Python data structures](https://www.tutorialspoint.com/python/python_data_structure.htm)
+
 - [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/)
 
 - [mycodeschool YouTube channel](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
@@ -89,6 +91,10 @@
 - [InterviewBit-Algorithms and Data Structures](https://www.interviewbit.com/courses/programming/)
 
 - [HackerRank-Problems](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays)
+
+- [HackerEarth-Problems-Data structures](https://www.hackerearth.com/practice/data-structures/)
+
+- [HackerEarth-problems-algorithms](https://www.hackerearth.com/practice/algorithms/)
 
 - [Codeforces Problemset](http://codeforces.com/problemset)
 
