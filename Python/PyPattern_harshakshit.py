@@ -28,3 +28,11 @@ def numpat(n):
 # Driver code 
 n = 5
 numpat(n) 
+
+rows = int(input("Enter the number of rows: "))
+for i in range(1, rows+1):
+    for j in range(1, i+1):
+        print(j, end=" ")
+        j+=1
+    print("\r")    
+    i+=1    
