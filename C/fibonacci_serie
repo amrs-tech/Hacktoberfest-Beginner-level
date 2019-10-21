@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void fibonacci(int N,int ant);
+
+int main(){
+  int N;
+  do{
+    printf("Write the numbers what do you want in Fibonacci serie\n");
+    scanf("%d",&N);
+  }while(N<1);
+  fibonacci(N);
+  return(0)
+}
+
+void fibonacci(int N){
+ int i,ant=1;
+ for(i=0;i<=N;i++){
+  printf("%d ",ant+i);
+  ant+=i;
+ }
+}
