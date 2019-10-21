@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Request Form</title>
+    <!-- <link href = "/assets/style.css" rel = "stylesheet" type = "text/css" /> -->
+</head>
+<body>
+    <% include partials/nav.ejs %>
+    <div class="header container">
+        <div class="page-header"> 
+            <h1> <a href="#">Welcome</a><small> to Request landing page</small></h1>
+        </div>
+    </div>
+    <div class="comments container">
+        <form action="/thanks" method="post" id="request-form">
+            <div class="form-group">
+                <label for="input_name">Request UID</label>
+                <input type="text" class="form-control" id="input_name" name="name" required minlength="2" maxlength="10"
+                placeholder="Enter Model UID">
+            </div>
+            <br>
+            <div class="form-group">
+                <label for="input_name">Request version</label>
+                <input type="text" class="form-control" id="input_version" name="version" required minlength="2" maxlength="10"
+                placeholder="Enter Model version">
+            </div>
+            <br>
+            <button type="submit" class="btn btn-default">Submit</button>
+        </form>
+    </div>
+</body>
+</html>
