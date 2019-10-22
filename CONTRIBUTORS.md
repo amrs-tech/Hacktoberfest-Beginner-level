@@ -77,3 +77,5 @@
 
 * [Bhashitha Dhananjaya](https://github.com/glbdhananjaya)
 
+* [Jamie N](https://github.com/ratesmayapply)
+
