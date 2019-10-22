@@ -1,8 +1,10 @@
 # This program can add or subtract to numbers
 
+# Subtracting function
 def subtract(x, y):
   return x - y
 
+# Adding function
 def add(x, y):
   return x + y
 
@@ -14,6 +16,5 @@ if __name__ == '__main__':
   main()
 
 # Output:
-
-3
-3
+# 3
+# 3
