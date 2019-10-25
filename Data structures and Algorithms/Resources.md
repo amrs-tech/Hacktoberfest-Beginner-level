@@ -1,6 +1,7 @@
 # Data Structures and Algorithms
 
 ## List of resources for Data structures and Algorithms
+-[Learn Data Structures and Algorithms | CodeChef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare/)
 
 - [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
 
@@ -110,6 +111,7 @@
 - Algorithms by Sanjoy Dasgupta
 
 ## Problems to solve
+-[Practice|Data Structures](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/)
 
 - [Codechef Tutorial Questions](https://www.codechef.com/wiki/tutorials)
 
