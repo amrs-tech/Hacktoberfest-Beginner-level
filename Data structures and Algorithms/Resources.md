@@ -72,18 +72,18 @@
 - [alogrithms brief summary](https://www.freecodecamp.org)
 - [Academia](https://www.academia.edu)
 
-#############
 ### interview questions links
 - [first link](https://hackernoon.com)
 - [second link](https://www.faceprep.in)
 - [third link](https://career.guru99.com)
 - [fourth link](https://www.sanfoundry.com)
-###############
+
   
    
 ### platform links where u can practise ds questions
-https://www.hackerrank.com/domains/data-structures
-https://www.hackerearth.com/practice/
+[HackerRank](https://www.hackerrank.com/domains/data-structures)
+[HackerEarth](https://www.hackerearth.com/practice/)
+
 ## Books
 - [Data Structures and Algorithms in Java PDF Book](http://enos.itcollege.ee/~jpoial/algorithms/GT/Data%20Structures%20and%20Algorithms%20in%20Java%20Fourth%20Edition.pdf)
 - [Data Structures using c](http://masterraghu.com/subjects/Datastructures/ebooks/rema%20thareja.pdf)
