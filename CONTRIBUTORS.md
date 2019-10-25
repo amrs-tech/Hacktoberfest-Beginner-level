@@ -7,6 +7,8 @@
 
 * [Ankita Priya](https://github.com/AnkitaBIT)
 
+* [Ujwal Kundur](https://github.com/Ajax_Light)
+
 * [Swapnil Sinha](https://github.com/siriuswapnil)
 
 * [Ahamed Musthafa](https://github.com/amrs-tech)
@@ -59,6 +61,7 @@
 
 * [César Alvarez Vallero](https://github.com/csralvall)
 
+* [Nymika](https://github.com/nymika)
 
 * [Ivan Elv](https://github.com/ivanelv)
 
@@ -71,3 +74,8 @@
 * [KN](https://github.com/KN027)
 
 * [Prateek Pardeshi](https://github.com/prateekpardeshi)
+
+* [Raden6](https://github.com/Raden6)
+
+* [Bhashitha Dhananjaya](https://github.com/glbdhananjaya)
+

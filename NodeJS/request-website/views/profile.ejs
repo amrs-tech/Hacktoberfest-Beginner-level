@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- <link href = "/assets/style.css" rel = "stylesheet" type = "text/css" /> -->
+    <meta charset="UTF-8">
+    <title>Playing with NodeJS</title>
+</head>
+<body>
+    <% include partials/nav.ejs %>
+    Hello <%= person %>. Welcome to your profile.
+    <br>
+    Data of <%= person %> : <%= data.age %> and <%= person %> is a <%= data.job %>
+    <br>
+    Hobbies:
+    <ul>
+        <% data.hobbies.forEach(function(item){ %>
+            <li><%= item %></li>
+        <% }); %>
+    </ul>
+</body>
+</html>
