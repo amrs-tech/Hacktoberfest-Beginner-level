@@ -81,8 +81,8 @@
   
    
 ### platform links where u can practise ds questions
-[HackerRank](https://www.hackerrank.com/domains/data-structures)
-[HackerEarth](https://www.hackerearth.com/practice/)
+- [HackerRank](https://www.hackerrank.com/domains/data-structures)
+- [HackerEarth](https://www.hackerearth.com/practice/)
 
 ## Books
 - [Data Structures and Algorithms in Java PDF Book](http://enos.itcollege.ee/~jpoial/algorithms/GT/Data%20Structures%20and%20Algorithms%20in%20Java%20Fourth%20Edition.pdf)
