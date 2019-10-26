@@ -1,18 +1,18 @@
 # Hacktoberfest-Beginner-level
 ## ⭐ Star this repository if you really like this approach of encouraging first-time-contributors :)
-
+***Support Open Source And Earn a Limited Edition T-Shirt: heart_eyes:*
 ![Hacktoberfest](hack.png)
 
 *This logo image is designed by [UsefulHunter](https://github.com/UsefulHunter) with HTML code -- Code is under HTML folder of this repository*
 
-Hey there! This is a beginner-friendly repository to help first-time-contributors with their cntrobutions in the open source community. 
+Hey there! This is a beginner-friendly repository to help first-time-contributors with their contributions in the open-source community. 
 
 ## Getting started
 Acquaint yourself with Hacktoberfest here: https://hacktoberfest.digitalocean.com. 
 
 ## Steps to contribute to Hacktoberfest
 
-1. You must login to [Github](https://github.com/) before. If you don't have a GitHub account, make one right now.
+1. You must log in to [Github](https://github.com/) before. If you don't have a GitHub account, make one right now.
     Remember to fill out your Github profile completely.
 2. Access [Hacktoberfest](https://hacktoberfest.digitalocean.com/profile) and 
     link your GitHub account to get your Hacktoberfest profile. 
@@ -37,6 +37,9 @@ Don't forget to add your Name and GitHub user profile to `CONTRIBUTORS.md`
 
 Hola! you're done. Now sit back and let us review your awesome code.
 Happy Hacking October!
+
+## Rules
+To get a T-shirt, you must make four pull requests (PRs) between October 1–31 in any timezone. PRs can be to any public repo on GitHub, not just the ones highlighted. The PR must contain commits you made yourself. PRs reported by the maintainers as spam or that are automated will be marked as invalid and won't count towards the shirt. This year, the first 50,000 of you can earn a T-shirt (compared with 30,000 in 2017).
 
 
 ## License
