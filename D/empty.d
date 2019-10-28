@@ -1,4 +1,4 @@
-import std.stdio: writeln: 
+import std.stdio: writeln;
 
 void main()
 {
