@@ -72,12 +72,15 @@
 
 - [alogrithms brief summary](https://www.freecodecamp.org)
 - [Academia](https://www.academia.edu)
+- [Data structures-Python Youtube Playlist](https://www.youtube.com/watch?v=lVFnq4zbs-g&list=PL5tcWHG-UPH112e7AN7C-fwDVPVrt0wpV)
+- [Data Structures and Algorithms-Common Interview Questions](https://www.youtube.com/watch?v=BchPukWb0CU)
 
 ### interview questions links
 - [first link](https://hackernoon.com)
 - [second link](https://www.faceprep.in)
 - [third link](https://career.guru99.com)
 - [fourth link](https://www.sanfoundry.com)
+- [fifth link](https://www.youtube.com/watch?v=El6D8s8rXtI)
 
   
    
@@ -119,7 +122,7 @@
 
 - [InterviewBit-Algorithms and Data Structures](https://www.interviewbit.com/courses/programming/)
 
-- [HackerRank-Problems](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays)
+- [HackerRank-Problems](https://www.hackerrank.com/domains/data-structures)
 
 - [HackerEarth-Problems-Data structures](https://www.hackerearth.com/practice/data-structures/)
 
@@ -133,3 +136,4 @@
 
 - [Practise Data Structures](http://www.practiceds.com/#/)
 - [Coderbyte Challenges](https://coderbyte.com/challenges)
+- [Hackerrank Advanced Problems](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=data-structures)
