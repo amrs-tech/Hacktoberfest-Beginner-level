@@ -77,5 +77,7 @@
 
 * [Raden6](https://github.com/Raden6)
 
+* [Kishan Kumar](https://github.com/kishankrs)
+
 * [Bhashitha Dhananjaya](https://github.com/glbdhananjaya)
 
