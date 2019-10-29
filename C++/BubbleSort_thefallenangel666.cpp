@@ -5,7 +5,22 @@ void Bubble_Sort(int arr[],int n)
 {
     for(int k=0;k<n-1;k++)
     {
-        int flag = 0;
+        int j=0,flag = 0;
+        while(flag==0)
+        {//if array is already sorted
+            if (arr[j]<arr[j+1])
+            {
+                flag=0;
+            }
+            else
+            {
+                flag=1;
+            }
+            j++;
+
+        }
+        if (flag==1)
+            break;
         for(int i=0;i<n-k-1;i++)
         {
             if(arr[i]>arr[i+1])
@@ -33,9 +48,9 @@ int main( )
     {
         cin>>arr[i];
     }
-    
+
     Bubble_Sort(arr,n);
-    
+
     cout<<"The Sorted Array is : ";
     for(int i=0;i<n;i++)
     {
