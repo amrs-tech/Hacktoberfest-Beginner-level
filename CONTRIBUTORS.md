@@ -77,6 +77,8 @@
 
 * [Raden6](https://github.com/Raden6)
 
+* [Rashmiee](https://github.com/Rashmiee)
+
 * [Nishant Goyal](https://github.com/Nishantgoyal918)
 
 * [Bhashitha Dhananjaya](https://github.com/glbdhananjaya)
