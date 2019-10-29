@@ -38,6 +38,10 @@ Don't forget to add your Name and GitHub user profile to `CONTRIBUTORS.md`
 Hola! you're done. Now sit back and let us review your awesome code.
 Happy Hacking October!
 
+*** **Note** ***
+
+If you're editing an already existing programming file please do provide the output screenshot of your changes in your Pull Request
+
 
 ## License
 © Copyright 2019 [Hacktoberfest-Beginner-level Contributors](https://github.com/amrs-tech/Hacktoberfest-Beginner-level/graphs/contributors) | MIT License
