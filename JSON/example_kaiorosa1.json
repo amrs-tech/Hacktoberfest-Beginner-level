@@ -1,0 +1,6 @@
+{
+"property": "value",
+"another_json":{ "property": "value"},
+"array_names": ["julia","john","kate","kaio"],
+"array_obj":[{ "fav_fruit": "banana"},{ "fav_fruit": "apple"}]
+}
