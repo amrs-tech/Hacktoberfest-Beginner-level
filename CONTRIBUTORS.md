@@ -7,6 +7,8 @@
 
 * [Ankita Priya](https://github.com/AnkitaBIT)
 
+* [Ujwal Kundur](https://github.com/Ajax_Light)
+
 * [Swapnil Sinha](https://github.com/siriuswapnil)
 
 * [Ahamed Musthafa](https://github.com/amrs-tech)
@@ -74,4 +76,6 @@
 * [Prateek Pardeshi](https://github.com/prateekpardeshi)
 
 * [Raden6](https://github.com/Raden6)
+
+* [Bhashitha Dhananjaya](https://github.com/glbdhananjaya)
 
