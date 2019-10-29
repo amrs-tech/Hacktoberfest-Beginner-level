@@ -11,6 +11,8 @@
 
 * [Swapnil Sinha](https://github.com/siriuswapnil)
 
+*[Bipul Adhikari](https://github.com/Bipuladhikari)
+
 * [Ahamed Musthafa](https://github.com/amrs-tech)
 
 * [Daniel Pimentel](http://d4n1.org)
