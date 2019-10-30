@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 > Please add your name here after making contribution to the repository
 
@@ -82,4 +82,6 @@
 * [Nishant Goyal](https://github.com/Nishantgoyal918)
 
 * [Bhashitha Dhananjaya](https://github.com/glbdhananjaya)
+
+* [Sharath N S](https://github.com/sharathInfy)
 
