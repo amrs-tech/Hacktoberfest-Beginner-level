@@ -1,0 +1,36 @@
+/* this has few but important tools in css */
+
+/* consider a html file containing basic html structure, head, heading h1 , h2 ,h3 ,body, a section containing 3 divs, buttons */
+
+/* Basic CSS structure */
+
+CSS-selector{
+    property: value;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background: red; //background of body
+    font-size: 50px;
+    color: blue; //For text color
+    
+    background: url(<some imamge or whatever you want>);
+
+}
+
+h1{
+    color: crimson;
+    text-shadow: 1px 2px 3px white; // adds a text-shadow
+    font-weight: 800;
+}
+
+button{
+    border: 10% green;
+}
+
+section{
+    display: flex; //aligns the items inside the divs in a flex-direction 
+    flex-direction: column;
+    align-content: center;
+
+}
