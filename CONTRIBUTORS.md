@@ -29,3 +29,5 @@
 * [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
 
 * [Andrew Gunderman](https://github.com/agunderman10)
+
+* [Antonio Leuther](https://github.com/leuthera)
