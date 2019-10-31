@@ -76,6 +76,7 @@
 - [Data Structures and Algorithms](https://www.niit.com/india/short-term-courses/information-technology/data-structures-and-algorithms)
 
 - [Introduction to Data Structures and Algorithms](https://www.studytonight.com/data-structures/introduction-to-data-structures)
+- [Data Structures Tutorials and Resources](https://www.w3schools.in/category/data-structures-tutorial/)
 
 
 
