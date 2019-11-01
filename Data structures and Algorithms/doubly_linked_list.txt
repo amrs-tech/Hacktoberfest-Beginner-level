@@ -1,0 +1,147 @@
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+#include<malloc.h>
+struct node
+{
+struct node*next;
+int data;
+struct node*prev;
+};
+struct node*start=NULL;
+void createll();
+void disp();
+void insertbeg();
+void insertend();
+void deletebeg();
+void deleteend();
+void deletelist();
+void main()
+{
+int ch;
+do
+{
+printf("\n 1.create \n 2.display \n 3.insert in beginning \n 4. insert at end \n 5.delete beginning \n 6.delete at end \n 7.delete list");
+printf("\n enter your choice");
+scanf("%d", &ch);
+switch(ch)
+{
+case 1: createll();
+break;
+case 2: disp();
+break;
+case 3: insertbeg();
+break;
+case 4: insertend();
+break;
+case 5: deletebeg();
+break;
+case 6: deleteend();
+break;
+case 7: deletelist();
+break;
+case 8: printf("\n exit");
+break;
+default: printf("\n invalid choice");
+}
+}
+while(ch!=8);
+getch();
+}
+void createll()
+{ struct node*newnode,*ptr;
+int num;
+printf("\n enter -1 to end");
+printf("\n enter the data");
+scanf("%d",&num);
+while(num!=-1)
+{
+if(start==NULL)
+{
+newnode=(struct node*)malloc(sizeof (struct node));
+newnode->prev=NULL;
+newnode->data=num;
+newnode->next=NULL;
+start=newnode;}
+else
+{
+ptr=start;
+newnode=(struct node*)malloc(sizeof (struct node));
+newnode->data=num;
+while(ptr->next!=NULL)
+ptr=ptr->next;
+ptr->next=newnode;
+newnode->prev=ptr;
+newnode->next=NULL;
+}
+printf("\n enter the data");
+scanf("%d", & num);
+}
+getch();
+}
+void disp()
+{
+struct node*ptr;
+ptr=start;
+while(ptr!=NULL)
+{
+printf("\t %d", ptr->data);
+ptr=ptr->next;
+}
+getch();
+}
+void insertbeg()
+{
+struct node*newnode;
+int num;
+printf("\n enter the data");
+scanf("%d", &num);
+newnode = (struct node*)malloc(sizeof (struct node));
+newnode->data=num;
+start->prev=newnode;
+newnode->next=start;
+newnode->prev=NULL;
+start=newnode;
+getch();
+}
+void insertend()
+{
+struct node*ptr,*newnode;
+int num;
+printf("\n enter the data");
+scanf("%d", &num);
+newnode = (struct node*) malloc (sizeof (struct node));
+newnode->data=num;
+ptr=start;
+while(ptr->next!=NULL)
+ptr=ptr->next;
+ptr->next=newnode;
+newnode->prev=ptr;
+newnode->next=NULL;
+getch();
+}
+void deletebeg()
+{
+struct node*ptr;
+ptr=start;
+start=start->next;
+start->prev=NULL;
+free(ptr);
+getch();
+}
+void deletebeg()
+{
+struct node*ptr;
+ptr=start;
+while(ptr->next!=NULL)
+ptr=ptr->next;
+ptr->prev->next=NULL;
+free(ptr);
+getch();
+}
+void deletelist()
+{
+while(start!=NULL)
+start=deletebeg(start);
+getch();
+}
