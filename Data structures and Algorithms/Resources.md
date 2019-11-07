@@ -55,6 +55,7 @@
 - [edx - UCSanDiegoX's Algorithms and Data Structures Course](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
 
 - [Job Interview Preparation - Ravindrababu Ravula](https://ravindrababuravula.com/interviewpreperation.php)
+- [Algorit.ma - Data Structures Course](algorit.ma)
 
 - [Data Structures And Algorithms (Video) NPTEL](https://nptel.ac.in/courses/106102064/)
 - [4 Data Structures Every New Developer Should Know](https://learntocodewith.me/posts/data-structures/)
