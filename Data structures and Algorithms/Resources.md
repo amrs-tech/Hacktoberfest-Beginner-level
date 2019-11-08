@@ -46,7 +46,8 @@
 
 - [Maktabkhoone - Data Structures Tutorial](https://maktabkhooneh.org/course/%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7-%D9%88-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%87%D8%A7-mk286/)
 
-- [Algorithms Live!- Competitive Coding Tutorials](http://algorithms-live.blogspot.com/)
+
+* [Algorithms Live!- Competitive Coding Tutorials](http://algorithms-live.blogspot.com/)
 
 - [Javatpoint - Data Structures Tutorial](https://www.javatpoint.com/data-structure-tutorial)
 
@@ -58,6 +59,9 @@
 
 - [Data Structures And Algorithms (Video) NPTEL](https://nptel.ac.in/courses/106102064/)
 - [4 Data Structures Every New Developer Should Know](https://learntocodewith.me/posts/data-structures/)
+
+
+## Books
 
 - [Java Programs Related to Data Structures and Algorithms](https://introcs.cs.princeton.edu/java/40algorithms/)
 - [learning tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
@@ -94,6 +98,7 @@
 ## Books
 - [Data Structures and Algorithms in Java PDF Book](http://enos.itcollege.ee/~jpoial/algorithms/GT/Data%20Structures%20and%20Algorithms%20in%20Java%20Fourth%20Edition.pdf)
 - [Data Structures using c](http://masterraghu.com/subjects/Datastructures/ebooks/rema%20thareja.pdf)
+
 ### Easy :
 
 - Data Structures Using C by Reema Thareja.
@@ -103,6 +108,17 @@
 ##### Use both together, they are complimentary.
 
 ### Advanced :
+
+* Cracking the Coding Interview book
+* CLRS (Reference Book, wiki of DS & Algo)
+* Skienna (Real World Application)
+* Tannenbum (Simple)
+* Kleinberg-Tardos (Best Graph concepts by far)
+* Adam Drozdek
+* Michael T. Goodrich and Roberto Tamassia
+* Mark Allen Weiss (Recursive Implementation)
+* Competitive Programming 3 (Best book for competitive programming )
+
 
 - Cracking the Coding Interview book
 - CLRS (Reference Book, wiki of DS & Algo)
