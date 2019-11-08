@@ -16,12 +16,17 @@ def bin_search(n,s):
 
 print("Enter the number of numbers you want to search:")
 num = int(input())
+if num<1:
+    print("Invalid Input!")
+    exit()
 
 n = []     # define a new list to hold the numbers to be searched
 
-print("Enter the List of numbers you want to search")
+print("Enter the List elements ")
 for i in range(num):
     n.append(int(input()))
+
+
 
 print("Enter the number you want to search")
 s = int(input())
@@ -33,5 +38,3 @@ if ans < 0:
     print(s,"was not found in the given list")
 else:
     print(s,"found at index", ans)
-
-
