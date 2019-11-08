@@ -79,6 +79,9 @@
 
 
 
+- [CodeChef Certified Data Structure & Algorithms Programme (CCDSAP)](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
+- [C++ Foundation with Data Structures](https://codingninjas.in/courses/onlline-c-plus-plus-course)
+
 ### interview questions links
 - [first link](https://hackernoon.com)
 - [second link](https://www.faceprep.in)
