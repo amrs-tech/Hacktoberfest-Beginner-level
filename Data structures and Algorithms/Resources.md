@@ -90,10 +90,12 @@
 ### platform links where u can practise ds questions
 - [HackerRank](https://www.hackerrank.com/domains/data-structures)
 - [HackerEarth](https://www.hackerearth.com/practice/)
+- [leetcode](https://leetcode.com/)
 
 ## Books
 - [Data Structures and Algorithms in Java PDF Book](http://enos.itcollege.ee/~jpoial/algorithms/GT/Data%20Structures%20and%20Algorithms%20in%20Java%20Fourth%20Edition.pdf)
 - [Data Structures using c](http://masterraghu.com/subjects/Datastructures/ebooks/rema%20thareja.pdf)
+- [The Algorithm Design Manual](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)l
 ### Easy :
 
 - Data Structures Using C by Reema Thareja.
