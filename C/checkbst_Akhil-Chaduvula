@@ -1,0 +1,113 @@
+#include<stdio.h>
+#include<stdlib.h>
+struct node
+{
+    int data;
+    struct node *left;
+    struct node *right;
+};
+struct node *create();
+int checkbst(struct node*);
+int max(struct node*);
+int min(struct node*);
+void preorder(struct node*);
+int main()
+{
+    struct node *root;
+    root=create();
+    printf("The preorder traversal is\n");
+    preorder(root);
+    printf("Checking BST");
+    if(checkbst(root))
+        printf("It is a BST");
+    else
+        printf("It is not a BST");
+}
+
+void preorder(struct node *p)
+{
+    if(p!=NULL)
+    {
+    printf("%d ",p->data);
+    preorder(p->left);
+    preorder(p->right);
+    }
+}
+
+int checkbst(struct node *t)
+{
+    if(t==NULL)
+        return 0;
+    if(t->left!=NULL)
+    {
+        if(max(t->left)>t->data)
+            return 0;
+    }
+    if(t->right!=NULL)
+    {
+        if(max(t->right)<t->data)
+            return 0;
+    }
+    if((checkbst(t->left))&&(checkbst(t->right)))
+        return 1;
+    return 0;
+}
+
+struct node *create()
+{
+    int a;
+    struct node *p;
+    printf("Enter a number :");
+    scanf("%d",&a);
+    if(a==-1)
+        return NULL;
+    p=malloc(sizeof(struct node));
+    p->data=a;
+    printf("Create the left node of %d",a);
+    p->left=create();
+    printf("Creating the right node of %d",a);
+    p->right=create();
+    return p;
+}
+
+int max(struct node *p)
+{
+    int l,r,m;
+    if(p==NULL)
+        return 0;
+    if((p->left==NULL)&&(p->right==NULL))
+    {
+        return p->data;
+    }
+    l=max(p->left);
+    r=max(p->right);
+    if(l>r)
+        m=l;
+    else
+        m=r;
+    if(p->data>m)
+        return p->data;
+    else
+        return m;
+}
+
+int min(struct node *p)
+{
+    int l,r,m;
+    if(p==NULL)
+        return 0;
+    if((p->left==NULL)&&(p->right==NULL))
+    {
+        return p->data;
+    }
+    l=max(p->left);
+    r=max(p->right);
+    if(l<r)
+        m=l;
+    else
+        m=r;
+    if(p->data<m)
+        return p->data;
+    else
+        return m;
+}
