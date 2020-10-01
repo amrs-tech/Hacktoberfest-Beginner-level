@@ -23,6 +23,8 @@
 
 * [Sean O'Connor](https://github.com/seanyboi)
 
+* [Nirmit](https://github.com/Nirmit2207)
+
 * [Kristina Bautista](https://github.com/KIBautista)
 
 * [Pasindu Madhusankha](https://github.com/Madhusankha)
